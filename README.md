@@ -1,7 +1,7 @@
 # Hi, I'm Meg!
 
-**Applied Mathematics (M.S., SDSU ’26)** 
-
+**Applied Mathematics (M.S., San Diego State University ’26)** 
+**Mathematics (B.S., Olivet Nazarene University '24)**
 
 - Interests: Financial analysis, risk, operations, healthcare/insurance
 - Tools: Excel, R, Python (visualization), SQL/Power BI/Tableau (learning in progress)
